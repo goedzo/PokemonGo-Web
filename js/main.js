@@ -388,6 +388,18 @@ var mapView = {
         }
       }
     });
+    
+    //Change title
+    var alias =self.settings.users[0].alias;
+    if (!alias) {
+        alias=self.settings.users[0].username;
+    }
+    $("#UI-Title").empty();
+    $("#UI-Title").append("&nbsp;&nbsp;");
+    $("#UI-Title").append(alias);
+    $("#UI-Title").append(" - Pikabot web ui");
+    
+    
   },
   initMap: function() {
     var self = this;
@@ -401,10 +413,10 @@ var mapView = {
     self.placeTrainer();
     self.addCatchable();
     self.placeEvents();
-    setInterval(self.updateTrainer, 1000);
-    setInterval(self.updateEvents, 500);
-    setInterval(self.addCatchable, 1000);
-    setInterval(self.addInventory, 5000);
+    setInterval(self.updateTrainer, 10000);
+    setInterval(self.updateEvents, 1500);
+    setInterval(self.addCatchable, 15000);
+    setInterval(self.addInventory, 15000);
   },
   initSettings: function() {
     var self = mapView;
@@ -640,12 +652,16 @@ var mapView = {
     for (var i = 0; i < users.length; i++) {
       if (users[i].enable) {
         var socketEnabled = (users[i].enableSocket) ? ' checked' : '';
+        var alias =users[i].alias;
+        if (!alias) {
+            alias=users[i].username;
+        }
         var content = '<li class="bot-user">\
                       <div class="collapsible-header bot-name">\
                       <span class="right tooltipped" data-position="bottom" data-tooltip="Enable/disable web socket connection">\
                       <input class="toggle-connection" type="checkbox" id="check_{1}" value="{1}"' + socketEnabled + ' />\
                       <label for="check_{1}" style="padding-left: 15px; margin-left: 5px;">&nbsp</label></span>\
-                      <span data-bot-id="{0}">{0}</span></div>\
+                      <span data-bot-id="{0}">' + alias + '</span></div>\
                       <div class="collapsible-body">\
                       <ul class="bot-items" data-user-id="{1}">\
                       <li><a class="bot-' + i + ' waves-effect waves-light btn tInfo">Info</a></li><br>\
@@ -749,7 +765,16 @@ var mapView = {
     var self = this,
     coords = self.pathcoords[self.settings.users[user_index].username][self.pathcoords[self.settings.users[user_index].username].length - 1];
     self.currentUserId = user_index;
-
+    //Change title
+    var alias =self.settings.users[user_index].alias;
+    if (!alias) {
+        alias=self.settings.users[user_index].username;
+    }
+    $("#UI-Title").empty();
+    $("#UI-Title").append("&nbsp;&nbsp;");
+    $("#UI-Title").append(alias);
+    $("#UI-Title").append(" - Pikabot web ui");
+    
     self.map.setZoom(self.settings.zoom);
     self.map.panTo({
       lat: parseFloat(coords.lat),
@@ -907,7 +932,8 @@ var mapView = {
       pkmMHP = pokemonData.stamina_max || 0,
       pkmCPMultiplier = pokemonData.cp_multiplier,
       pkmFavorite = pokemonData.favorite || 0,
-      pkmIsBad = pokemonData.is_bad || false;
+      pkmIsBad = pokemonData.is_bad || false,
+      pkmShiny = pokemonData.pokemon_display.shiny || false;
 
       var pkmDateCaptured = new Date(pokemonData.creation_time_ms);
       var pkmTypeI = self.pokemonArray[pkmID - 1].TypeI[0],
@@ -947,7 +973,8 @@ var mapView = {
         "weakness": pkmWeakness,
         "favorite": pkmFavorite,
         "date_captured": pkmDateCaptured.customFormat( "#MM#/#DD#/#YYYY# #hh#:#mm#" ),
-        "is_bad": pkmIsBad
+        "is_bad": pkmIsBad,
+        "is_shiny": pkmShiny,
       });
     }
     switch ($(".pokemon-sort a.selected").data("sort")) {
@@ -1014,7 +1041,7 @@ var mapView = {
     }
     for (var i = 0; i < sortedPokemon.length; i++) {
       var pkmnNum = sortedPokemon[i].id,
-        pkmnImage = self.pad_with_zeroes(pkmnNum, 3) + '.png',
+        pkmnImage = self.pad_with_zeroes(pkmnNum, 3),
         pkmnName = self.pokemonArray[pkmnNum - 1].Name,
         pkmnLvl = sortedPokemon[i].lvl,
         pkmnCP = sortedPokemon[i].cp,
@@ -1044,11 +1071,13 @@ var mapView = {
         out += '<span class="favorite"><img src="image/trainer/favorite.png"></span>';
       }
       if (sortedPokemon[i].is_bad) {
-          out += '<div style="height:80px; width:80px;"><img src="image/pokemon/' + pkmnImage + 
-            '" class="png_img" style="position:absolute;">' +
-            '<img src="image/is_bad.png" class="png_img" style="position:absolute;"></div></br>'
-      } else {
-        out += '<img src="image/pokemon/' + pkmnImage + '" class="png_img"></br>'
+         out += '<div style="height:80px; width:80px;"><img src="image/pokemon/' + pkmnImage + '.png"' + 
+         'class="png_img" style="position:absolute;">' +  
+         '<img src="image/trainer/is_bad.png" class="png_img" style="position:absolute;"></div></br>'
+      } else if (sortedPokemon[i].is_shiny) { 
+        out += '<img src="image/pokemon/' + pkmnImage + '_shiny.png" class="png_img"></br>'
+      } else { 
+        out += '<img src="image/pokemon/' + pkmnImage + '.png" class="png_img"></br>'
       }
         out += '<span style="cursor: pointer;" class="tooltipped" data-html="true" data-tooltip="' + outWeakness + '"><b>' +
         pkmnName + ' [ Lv.' + pkmnLvl + ' ]</b></span>' +
