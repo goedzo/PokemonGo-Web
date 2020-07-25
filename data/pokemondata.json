@@ -3,10 +3,10 @@
     "Number": "001",
     "Name": "Bulbasaur",
     "Classification": "Seed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -59,10 +59,10 @@
     "Number": "002",
     "Name": "Ivysaur",
     "Classification": "Seed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -117,10 +117,10 @@
     "Number": "003",
     "Name": "Venusaur",
     "Classification": "Seed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -168,7 +168,7 @@
     "Number": "004",
     "Name": "Charmander",
     "Classification": "Lizard Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -217,7 +217,7 @@
     "Number": "005",
     "Name": "Charmeleon",
     "Classification": "Flame Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -269,10 +269,10 @@
     "Number": "006",
     "Name": "Charizard",
     "Classification": "Tiny Turtle Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -321,7 +321,7 @@
     "Number": "007",
     "Name": "Squirtle",
     "Classification": "Tiny Turtle Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -369,7 +369,7 @@
     "Number": "008",
     "Name": "Wartortle",
     "Classification": "Turtle Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -419,7 +419,7 @@
     "Number": "009",
     "Name": "Blastoise",
     "Classification": "Shellfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -462,7 +462,7 @@
     "Number": "010",
     "Name": "Caterpie",
     "Classification": "Worm Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
@@ -509,7 +509,7 @@
     "Number": "011",
     "Name": "Metapod",
     "Classification": "Cocoon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
@@ -558,10 +558,10 @@
     "Number": "012",
     "Name": "Butterfree",
     "Classification": "Butterfly Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -608,10 +608,10 @@
     "Number": "013",
     "Name": "Weedle",
     "Classification": "Hairy Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -660,10 +660,10 @@
     "Number": "014",
     "Name": "Kakuna",
     "Classification": "Cocoon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -714,10 +714,10 @@
     "Number": "015",
     "Name": "Beedrill",
     "Classification": "Poison Bee Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -764,10 +764,10 @@
     "Number": "016",
     "Name": "Pidgey",
     "Classification": "Tiny Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -817,10 +817,10 @@
     "Number": "017",
     "Name": "Pidgeotto",
     "Classification": "Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -872,10 +872,10 @@
     "Number": "018",
     "Name": "Pidgeot",
     "Classification": "Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -922,7 +922,7 @@
     "Number": "019",
     "Name": "Rattata",
     "Classification": "Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -965,7 +965,7 @@
     "Number": "020",
     "Name": "Raticate",
     "Classification": "Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -1003,10 +1003,10 @@
     "Number": "021",
     "Name": "Spearow",
     "Classification": "Tiny Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -1053,10 +1053,10 @@
     "Number": "022",
     "Name": "Fearow",
     "Classification": "Beak Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -1098,7 +1098,7 @@
     "Number": "023",
     "Name": "Ekans",
     "Classification": "Snake Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -1143,7 +1143,7 @@
     "Number": "024",
     "Name": "Arbok",
     "Classification": "Cobra Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -1182,7 +1182,7 @@
     "Number": "025",
     "Name": "Pikachu",
     "Classification": "Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -1190,6 +1190,7 @@
     ],
     "Fast Attack(s)": [
       "Thunder Shock",
+      "Present",
       "Quick Attack"
     ],
     "Weight": "6 kg",
@@ -1219,7 +1220,8 @@
       "Discharge",
       "Thunderbolt",
       "Wild Charge",
-      "Thunder"
+      "Thunder",
+      "Surf"
     ],
     "BaseAttack": 112,
     "BaseDefense": 101,
@@ -1232,7 +1234,7 @@
     "Number": "026",
     "Name": "Raichu",
     "Classification": "Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -1276,7 +1278,7 @@
     "Number": "027",
     "Name": "Sandshrew",
     "Classification": "Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -1322,7 +1324,7 @@
     "Number": "028",
     "Name": "Sandslash",
     "Classification": "Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -1362,7 +1364,7 @@
     "Number": "029",
     "Name": "Nidoran F",
     "Classification": "Poison Pin Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -1410,7 +1412,7 @@
     "Number": "030",
     "Name": "Nidorina",
     "Classification": "Poison Pin Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -1460,10 +1462,10 @@
     "Number": "031",
     "Name": "Nidoqueen",
     "Classification": "Drill Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -1509,7 +1511,7 @@
     "Number": "032",
     "Name": "Nidoran M",
     "Classification": "Poison Pin Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -1557,7 +1559,7 @@
     "Number": "033",
     "Name": "Nidorino",
     "Classification": "Poison Pin Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -1607,10 +1609,10 @@
     "Number": "034",
     "Name": "Nidoking",
     "Classification": "Drill Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -1657,7 +1659,7 @@
     "Number": "035",
     "Name": "Clefairy",
     "Classification": "Fairy Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -1707,7 +1709,7 @@
     "Number": "036",
     "Name": "Clefable",
     "Classification": "Fairy Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -1751,7 +1753,7 @@
     "Number": "037",
     "Name": "Vulpix",
     "Classification": "Fox Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -1796,7 +1798,7 @@
     "Number": "038",
     "Name": "Ninetales",
     "Classification": "Fox Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -1839,10 +1841,10 @@
     "Number": "039",
     "Name": "Jigglypuff",
     "Classification": "Balloon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -1895,10 +1897,10 @@
     "Number": "040",
     "Name": "Wigglytuff",
     "Classification": "Balloon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -1942,10 +1944,10 @@
     "Number": "041",
     "Name": "Zubat",
     "Classification": "Bat Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -1997,10 +1999,10 @@
     "Number": "042",
     "Name": "Golbat",
     "Classification": "Bat Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -2054,10 +2056,10 @@
     "Number": "043",
     "Name": "Oddish",
     "Classification": "Weed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -2114,10 +2116,10 @@
     "Number": "044",
     "Name": "Gloom",
     "Classification": "Weed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -2176,10 +2178,10 @@
     "Number": "045",
     "Name": "Vileplume",
     "Classification": "Flower Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -2227,10 +2229,10 @@
     "Number": "046",
     "Name": "Paras",
     "Classification": "Mushroom Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
@@ -2278,10 +2280,10 @@
     "Number": "047",
     "Name": "Parasect",
     "Classification": "Mushroom Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
@@ -2325,10 +2327,10 @@
     "Number": "048",
     "Name": "Venonat",
     "Classification": "Insect Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -2375,10 +2377,10 @@
     "Number": "049",
     "Name": "Venomoth",
     "Classification": "Poison Moth Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -2422,7 +2424,7 @@
     "Number": "050",
     "Name": "Diglett",
     "Classification": "Mole Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -2467,7 +2469,7 @@
     "Number": "051",
     "Name": "Dugtrio",
     "Classification": "Mole Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -2508,7 +2510,7 @@
     "Number": "052",
     "Name": "Meowth",
     "Classification": "Scratch Cat Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -2552,7 +2554,7 @@
     "Number": "053",
     "Name": "Persian",
     "Classification": "Classy Cat Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -2591,7 +2593,7 @@
     "Number": "054",
     "Name": "Psyduck",
     "Classification": "Duck Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -2635,7 +2637,7 @@
     "Number": "055",
     "Name": "Golduck",
     "Classification": "Duck Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -2674,7 +2676,7 @@
     "Number": "056",
     "Name": "Mankey",
     "Classification": "Pig Monkey Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -2719,7 +2721,7 @@
     "Number": "057",
     "Name": "Primeape",
     "Classification": "Pig Monkey Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -2761,7 +2763,7 @@
     "Number": "058",
     "Name": "Growlithe",
     "Classification": "Puppy Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -2806,7 +2808,7 @@
     "Number": "059",
     "Name": "Arcanine",
     "Classification": "Legendary Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -2849,7 +2851,7 @@
     "Number": "060",
     "Name": "Poliwag",
     "Classification": "Tadpole Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -2901,7 +2903,7 @@
     "Number": "061",
     "Name": "Poliwhirl",
     "Classification": "Tadpole Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -2956,10 +2958,10 @@
     "Number": "062",
     "Name": "Poliwrath",
     "Classification": "Tadpole Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -3007,7 +3009,7 @@
     "Number": "063",
     "Name": "Abra",
     "Classification": "Psi Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -3056,7 +3058,7 @@
     "Number": "064",
     "Name": "Kadabra",
     "Classification": "Psi Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -3107,7 +3109,7 @@
     "Number": "065",
     "Name": "Alakazam",
     "Classification": "Psi Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -3153,7 +3155,7 @@
     "Number": "066",
     "Name": "Machop",
     "Classification": "Superpower Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -3203,7 +3205,7 @@
     "Number": "067",
     "Name": "Machoke",
     "Classification": "Superpower Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -3255,7 +3257,7 @@
     "Number": "068",
     "Name": "Machamp",
     "Classification": "Superpower Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -3303,10 +3305,10 @@
     "Number": "069",
     "Name": "Bellsprout",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -3359,10 +3361,10 @@
     "Number": "070",
     "Name": "Weepinbell",
     "Classification": "Flower Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -3418,10 +3420,10 @@
     "Number": "071",
     "Name": "Victreebel",
     "Classification": "Flycatcher Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -3469,10 +3471,10 @@
     "Number": "072",
     "Name": "Tentacool",
     "Classification": "Jellyfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -3518,10 +3520,10 @@
     "Number": "073",
     "Name": "Tentacruel",
     "Classification": "Jellyfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -3562,10 +3564,10 @@
     "Number": "074",
     "Name": "Geodude",
     "Classification": "Rock Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -3617,10 +3619,10 @@
     "Number": "075",
     "Name": "Graveler",
     "Classification": "Rock Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -3677,10 +3679,10 @@
     "Number": "076",
     "Name": "Golem",
     "Classification": "Megaton Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -3729,7 +3731,7 @@
     "Number": "077",
     "Name": "Ponyta",
     "Classification": "Fire Horse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -3775,7 +3777,7 @@
     "Number": "078",
     "Name": "Rapidash",
     "Classification": "Fire Horse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -3816,10 +3818,10 @@
     "Number": "079",
     "Name": "Slowpoke",
     "Classification": "Dopey Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -3870,10 +3872,10 @@
     "Number": "080",
     "Name": "Slowbro",
     "Classification": "Hermit Crab Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -3915,10 +3917,10 @@
     "Number": "081",
     "Name": "Magnemite",
     "Classification": "Magnet Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
-    "TypeII": [
+    "Type II": [
       "Steel"
     ],
     "Weaknesses": [
@@ -3963,10 +3965,10 @@
     "Number": "082",
     "Name": "Magneton",
     "Classification": "Magnet Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
-    "TypeII": [
+    "Type II": [
       "Steel"
     ],
     "Weaknesses": [
@@ -4008,10 +4010,10 @@
     "Number": "083",
     "Name": "Farfetchd",
     "Classification": "Wild Duck Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -4047,10 +4049,10 @@
     "Number": "084",
     "Name": "Doduo",
     "Classification": "Twin Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -4097,10 +4099,10 @@
     "Number": "085",
     "Name": "Dodrio",
     "Classification": "Triple Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -4142,7 +4144,7 @@
     "Number": "086",
     "Name": "Seel",
     "Classification": "Sea Lion Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -4190,10 +4192,10 @@
     "Number": "087",
     "Name": "Dewgong",
     "Classification": "Sea Lion Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ice"
     ],
     "Weaknesses": [
@@ -4239,7 +4241,7 @@
     "Number": "088",
     "Name": "Grimer",
     "Classification": "Sludge Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -4283,7 +4285,7 @@
     "Number": "089",
     "Name": "Muk",
     "Classification": "Sludge Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -4324,7 +4326,7 @@
     "Number": "090",
     "Name": "Shellder",
     "Classification": "Bivalve Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -4368,10 +4370,10 @@
     "Number": "091",
     "Name": "Cloyster",
     "Classification": "Bivalve Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ice"
     ],
     "Weaknesses": [
@@ -4416,10 +4418,10 @@
     "Number": "092",
     "Name": "Gastly",
     "Classification": "Gas Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -4471,10 +4473,10 @@
     "Number": "093",
     "Name": "Haunter",
     "Classification": "Gas Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -4528,10 +4530,10 @@
     "Number": "094",
     "Name": "Gengar",
     "Classification": "Shadow Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -4578,10 +4580,10 @@
     "Number": "095",
     "Name": "Onix",
     "Classification": "Rock Snake Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -4631,7 +4633,7 @@
     "Number": "096",
     "Name": "Drowzee",
     "Classification": "Hypnosis Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -4676,7 +4678,7 @@
     "Number": "097",
     "Name": "Hypno",
     "Classification": "Hypnosis Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -4718,7 +4720,7 @@
     "Number": "098",
     "Name": "Krabby",
     "Classification": "River Crab Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -4762,7 +4764,7 @@
     "Number": "099",
     "Name": "Kingler",
     "Classification": "Pincer Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -4802,7 +4804,7 @@
     "Number": "100",
     "Name": "Voltorb",
     "Classification": "Ball Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -4846,7 +4848,7 @@
     "Number": "101",
     "Name": "Electrode",
     "Classification": "Ball Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -4885,10 +4887,10 @@
     "Number": "102",
     "Name": "Exeggcute",
     "Classification": "Egg Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -4937,10 +4939,10 @@
     "Number": "103",
     "Name": "Exeggutor",
     "Classification": "Coconut Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -4986,7 +4988,7 @@
     "Number": "104",
     "Name": "Cubone",
     "Classification": "Lonely Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -5031,7 +5033,7 @@
     "Number": "105",
     "Name": "Marowak",
     "Classification": "Bone Keeper Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -5071,7 +5073,7 @@
     "Number": "106",
     "Name": "Hitmonlee",
     "Classification": "Kicking Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -5107,7 +5109,7 @@
     "Number": "107",
     "Name": "Hitmonchan",
     "Classification": "Punching Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -5144,7 +5146,7 @@
     "Number": "108",
     "Name": "Lickitung",
     "Classification": "Licking Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -5176,7 +5178,7 @@
     "Number": "109",
     "Name": "Koffing",
     "Classification": "Poison Gas Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -5220,7 +5222,7 @@
     "Number": "110",
     "Name": "Weezing",
     "Classification": "Poison Gas Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
@@ -5260,10 +5262,10 @@
     "Number": "111",
     "Name": "Rhyhorn",
     "Classification": "Spikes Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
@@ -5311,10 +5313,10 @@
     "Number": "112",
     "Name": "Rhydon",
     "Classification": "Drill Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
@@ -5357,7 +5359,7 @@
     "Number": "113",
     "Name": "Chansey",
     "Classification": "Egg Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -5400,7 +5402,7 @@
     "Number": "114",
     "Name": "Tangela",
     "Classification": "Vine Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -5437,7 +5439,7 @@
     "Number": "115",
     "Name": "Kangaskhan",
     "Classification": "Parent Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -5471,7 +5473,7 @@
     "Number": "116",
     "Name": "Horsea",
     "Classification": "Dragon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -5515,7 +5517,7 @@
     "Number": "117",
     "Name": "Seadra",
     "Classification": "Dragon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -5561,7 +5563,7 @@
     "Number": "118",
     "Name": "Goldeen",
     "Classification": "Goldfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -5605,7 +5607,7 @@
     "Number": "119",
     "Name": "Seaking",
     "Classification": "Goldfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -5646,7 +5648,7 @@
     "Number": "120",
     "Name": "Staryu",
     "Classification": "Starshape Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -5691,10 +5693,10 @@
     "Number": "121",
     "Name": "Starmie",
     "Classification": "Mysterious Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -5739,10 +5741,10 @@
     "Number": "122",
     "Name": "MrMime",
     "Classification": "Barrier Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -5778,10 +5780,10 @@
     "Number": "123",
     "Name": "Scyther",
     "Classification": "Mantis Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -5830,10 +5832,10 @@
     "Number": "124",
     "Name": "Jynx",
     "Classification": "Humanshape Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -5879,7 +5881,7 @@
     "Number": "125",
     "Name": "Electabuzz",
     "Classification": "Electric Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -5917,7 +5919,7 @@
     "Number": "126",
     "Name": "Magmar",
     "Classification": "Spitfire Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -5957,7 +5959,7 @@
     "Number": "127",
     "Name": "Pinsir",
     "Classification": "Stagbeetle Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
@@ -5993,7 +5995,7 @@
     "Number": "128",
     "Name": "Tauros",
     "Classification": "Wild Bull Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -6025,7 +6027,7 @@
     "Number": "129",
     "Name": "Magikarp",
     "Classification": "Fish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -6066,10 +6068,10 @@
     "Number": "130",
     "Name": "Gyarados",
     "Classification": "Atrocious Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -6113,10 +6115,10 @@
     "Number": "131",
     "Name": "Lapras",
     "Classification": "Transport Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ice"
     ],
     "Weaknesses": [
@@ -6155,7 +6157,7 @@
     "Number": "132",
     "Name": "Ditto",
     "Classification": "Transform Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -6184,7 +6186,7 @@
     "Number": "133",
     "Name": "Eevee",
     "Classification": "Evolution Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -6243,7 +6245,7 @@
     "Number": "134",
     "Name": "Vaporeon",
     "Classification": "Bubble Jet Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -6281,7 +6283,7 @@
     "Number": "135",
     "Name": "Jolteon",
     "Classification": "Lightning Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -6319,7 +6321,7 @@
     "Number": "136",
     "Name": "Flareon",
     "Classification": "Flame Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -6360,7 +6362,7 @@
     "Number": "137",
     "Name": "Porygon",
     "Classification": "Virtual Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -6409,10 +6411,10 @@
     "Number": "138",
     "Name": "Omanyte",
     "Classification": "Spiral Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
@@ -6462,10 +6464,10 @@
     "Number": "139",
     "Name": "Omastar",
     "Classification": "Spiral Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
@@ -6510,10 +6512,10 @@
     "Number": "140",
     "Name": "Kabuto",
     "Classification": "Shellfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
@@ -6561,10 +6563,10 @@
     "Number": "141",
     "Name": "Kabutops",
     "Classification": "Shellfish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
@@ -6608,10 +6610,10 @@
     "Number": "142",
     "Name": "Aerodactyl",
     "Classification": "Fossil Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -6650,7 +6652,7 @@
     "Number": "143",
     "Name": "Snorlax",
     "Classification": "Sleeping Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -6683,10 +6685,10 @@
     "Number": "144",
     "Name": "Articuno",
     "Classification": "Freeze Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -6714,18 +6716,18 @@
     "BaseAttack": 192,
     "BaseDefense": 249,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.03,
     "FleeRate": 0.1,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "145",
     "Name": "Zapdos",
     "Classification": "Electric Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -6753,18 +6755,18 @@
     "BaseAttack": 253,
     "BaseDefense": 188,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.03,
     "FleeRate": 0.1,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "146",
     "Name": "Moltres",
     "Classification": "Flame Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -6793,15 +6795,15 @@
     "BaseAttack": 251,
     "BaseDefense": 184,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.03,
     "FleeRate": 0.1,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "147",
     "Name": "Dratini",
     "Classification": "Dragon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
     "Weaknesses": [
@@ -6850,7 +6852,7 @@
     "Number": "148",
     "Name": "Dragonair",
     "Classification": "Dragon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
     "Weaknesses": [
@@ -6901,10 +6903,10 @@
     "Number": "149",
     "Name": "Dragonite",
     "Classification": "Dragon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -6953,7 +6955,7 @@
     "Number": "150",
     "Name": "Mewtwo",
     "Classification": "Genetic Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -6980,15 +6982,15 @@
     "BaseAttack": 330,
     "BaseDefense": 200,
     "BaseStamina": 212,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.06,
     "FleeRate": 0.1,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "151",
     "Name": "Mew",
     "Classification": "New Species Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -7021,13 +7023,13 @@
     "BaseStamina": 200,
     "CaptureRate": 0.0,
     "FleeRate": 0.1,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "152",
     "Name": "Chikorita",
     "Classification": "Leaf Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -7080,7 +7082,7 @@
     "Number": "153",
     "Name": "Bayleef",
     "Classification": "Leaf Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -7134,7 +7136,7 @@
     "Number": "154",
     "Name": "Meganium",
     "Classification": "Herb Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -7181,7 +7183,7 @@
     "Number": "155",
     "Name": "Cyndaquil",
     "Classification": "Fire Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -7231,7 +7233,7 @@
     "Number": "156",
     "Name": "Quilava",
     "Classification": "Volcano Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -7283,7 +7285,7 @@
     "Number": "157",
     "Name": "Typhlosion",
     "Classification": "Volcano Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -7328,7 +7330,7 @@
     "Number": "158",
     "Name": "Totodile",
     "Classification": "Big Jaw Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -7377,7 +7379,7 @@
     "Number": "159",
     "Name": "Croconaw",
     "Classification": "Big Jaw Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -7428,7 +7430,7 @@
     "Number": "160",
     "Name": "Feraligatr",
     "Classification": "Big Jaw Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -7472,7 +7474,7 @@
     "Number": "161",
     "Name": "Sentret",
     "Classification": "Scout Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -7516,7 +7518,7 @@
     "Number": "162",
     "Name": "Furret",
     "Classification": "Long Body Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -7555,10 +7557,10 @@
     "Number": "163",
     "Name": "Hoothoot",
     "Classification": "Owl Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -7606,10 +7608,10 @@
     "Number": "164",
     "Name": "Noctowl",
     "Classification": "Owl Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -7653,10 +7655,10 @@
     "Number": "165",
     "Name": "Ledyba",
     "Classification": "Five Star Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -7704,10 +7706,10 @@
     "Number": "166",
     "Name": "Ledian",
     "Classification": "Five Star Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -7751,10 +7753,10 @@
     "Number": "167",
     "Name": "Spinarak",
     "Classification": "String Spit Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -7802,10 +7804,10 @@
     "Number": "168",
     "Name": "Ariados",
     "Classification": "Long Leg Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -7849,10 +7851,10 @@
     "Number": "169",
     "Name": "Crobat",
     "Classification": "Bat Pokemon",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -7900,10 +7902,10 @@
     "Number": "170",
     "Name": "Chinchou",
     "Classification": "Angler Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Electric"
     ],
     "Weaknesses": [
@@ -7949,10 +7951,10 @@
     "Number": "171",
     "Name": "Lanturn",
     "Classification": "Light Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Electric"
     ],
     "Weaknesses": [
@@ -7994,7 +7996,7 @@
     "Number": "172",
     "Name": "Pichu",
     "Classification": "Tiny Mouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -8041,7 +8043,7 @@
     "Number": "173",
     "Name": "Cleffa",
     "Classification": "Star Shape Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -8091,10 +8093,10 @@
     "Number": "174",
     "Name": "Igglybuff",
     "Classification": "Balloon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -8144,7 +8146,7 @@
     "Number": "175",
     "Name": "Togepi",
     "Classification": "Spike Ball Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -8189,10 +8191,10 @@
     "Number": "176",
     "Name": "Togetic",
     "Classification": "Happiness Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -8236,10 +8238,10 @@
     "Number": "177",
     "Name": "Natu",
     "Classification": "Little Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -8288,10 +8290,10 @@
     "Number": "178",
     "Name": "Xatu",
     "Classification": "Mystic Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -8336,7 +8338,7 @@
     "Number": "179",
     "Name": "Mareep",
     "Classification": "Wool Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -8384,7 +8386,7 @@
     "Number": "180",
     "Name": "Flaaffy",
     "Classification": "Wool Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -8434,7 +8436,7 @@
     "Number": "181",
     "Name": "Ampharos",
     "Classification": "Light Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -8478,7 +8480,7 @@
     "Number": "182",
     "Name": "Bellossom",
     "Classification": "Flower Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -8526,10 +8528,10 @@
     "Number": "183",
     "Name": "Marill",
     "Classification": "Aquamouse Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -8576,10 +8578,10 @@
     "Number": "184",
     "Name": "Azumarill",
     "Classification": "Aquarabbit Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -8622,7 +8624,7 @@
     "Number": "185",
     "Name": "Sudowoodo",
     "Classification": "Imitation Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
     "Weaknesses": [
@@ -8660,7 +8662,7 @@
     "Number": "186",
     "Name": "Politoed",
     "Classification": "Frog Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -8705,10 +8707,10 @@
     "Number": "187",
     "Name": "Hoppip",
     "Classification": "Cottonweed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -8762,10 +8764,10 @@
     "Number": "188",
     "Name": "Skiploom",
     "Classification": "Cottonweed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -8821,10 +8823,10 @@
     "Number": "189",
     "Name": "Jumpluff",
     "Classification": "Cottonweed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -8874,7 +8876,7 @@
     "Number": "190",
     "Name": "Aipom",
     "Classification": "Long Tail Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -8908,7 +8910,7 @@
     "Number": "191",
     "Name": "Sunkern",
     "Classification": "Seed Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -8957,7 +8959,7 @@
     "Number": "192",
     "Name": "Sunflora",
     "Classification": "Sun Pokemon",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
@@ -9001,10 +9003,10 @@
     "Number": "193",
     "Name": "Yanma",
     "Classification": "Clear Wing Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -9042,10 +9044,10 @@
     "Number": "194",
     "Name": "Wooper",
     "Classification": "Water Fish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -9093,10 +9095,10 @@
     "Number": "195",
     "Name": "Quagsire",
     "Classification": "Water Fish Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -9139,7 +9141,7 @@
     "Number": "196",
     "Name": "Espeon",
     "Classification": "Sun Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -9180,7 +9182,7 @@
     "Number": "197",
     "Name": "Umbreon",
     "Classification": "Moonlight Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
     "Weaknesses": [
@@ -9221,10 +9223,10 @@
     "Number": "198",
     "Name": "Murkrow",
     "Classification": "Darkness Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -9263,10 +9265,10 @@
     "Number": "199",
     "Name": "Slowking",
     "Classification": "Royal Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -9310,7 +9312,7 @@
     "Number": "200",
     "Name": "Misdreavus",
     "Classification": "Screech Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
     "Weaknesses": [
@@ -9345,7 +9347,7 @@
     "Number": "201",
     "Name": "Unown",
     "Classification": "Symbol Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -9377,7 +9379,7 @@
     "Number": "202",
     "Name": "Wobbuffet",
     "Classification": "Patient Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -9411,10 +9413,10 @@
     "Number": "203",
     "Name": "Girafarig",
     "Classification": "Long Neck Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -9450,7 +9452,7 @@
     "Number": "204",
     "Name": "Pineco",
     "Classification": "Bagworm Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
@@ -9496,10 +9498,10 @@
     "Number": "205",
     "Name": "Forretress",
     "Classification": "Bagworm Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Steel"
     ],
     "Weaknesses": [
@@ -9543,7 +9545,7 @@
     "Number": "206",
     "Name": "Dunsparce",
     "Classification": "Land Snake Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -9577,10 +9579,10 @@
     "Number": "207",
     "Name": "Gligar",
     "Classification": "Flyscorpion Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -9618,10 +9620,10 @@
     "Number": "208",
     "Name": "Steelix",
     "Classification": "Iron Snake Pokemon",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -9666,7 +9668,7 @@
     "Number": "209",
     "Name": "Snubbull",
     "Classification": "Fairy Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -9711,7 +9713,7 @@
     "Number": "210",
     "Name": "Granbull",
     "Classification": "Fairy Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fairy"
     ],
     "Weaknesses": [
@@ -9752,10 +9754,10 @@
     "Number": "211",
     "Name": "Qwilfish",
     "Classification": "Balloon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
@@ -9792,10 +9794,10 @@
     "Number": "212",
     "Name": "Scizor",
     "Classification": "Pincer Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Steel"
     ],
     "Weaknesses": [
@@ -9839,10 +9841,10 @@
     "Number": "213",
     "Name": "Shuckle",
     "Classification": "Mold Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
@@ -9883,10 +9885,10 @@
     "Number": "214",
     "Name": "Heracross",
     "Classification": "Singlehorn Pokemon",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -9924,10 +9926,10 @@
     "Number": "215",
     "Name": "Sneasel",
     "Classification": "Sharp Claw Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
-    "TypeII": [
+    "Type II": [
       "Ice"
     ],
     "Weaknesses": [
@@ -9966,7 +9968,7 @@
     "Number": "216",
     "Name": "Teddiursa",
     "Classification": "Little Bear Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -10011,7 +10013,7 @@
     "Number": "217",
     "Name": "Ursaring",
     "Classification": "Hibernator Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -10051,7 +10053,7 @@
     "Number": "218",
     "Name": "Slugma",
     "Classification": "Lava Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -10098,10 +10100,10 @@
     "Number": "219",
     "Name": "Magcargo",
     "Classification": "Lava Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
@@ -10146,10 +10148,10 @@
     "Number": "220",
     "Name": "Swinub",
     "Classification": "Pig Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -10199,10 +10201,10 @@
     "Number": "221",
     "Name": "Piloswine",
     "Classification": "Swine Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -10248,10 +10250,10 @@
     "Number": "222",
     "Name": "Corsola",
     "Classification": "Coral Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
@@ -10289,7 +10291,7 @@
     "Number": "223",
     "Name": "Remoraid",
     "Classification": "Jet Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -10335,7 +10337,7 @@
     "Number": "224",
     "Name": "Octillery",
     "Classification": "Jet Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -10376,10 +10378,10 @@
     "Number": "225",
     "Name": "Delibird",
     "Classification": "Delivery Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -10418,10 +10420,10 @@
     "Number": "226",
     "Name": "Mantine",
     "Classification": "Kite Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -10458,10 +10460,10 @@
     "Number": "227",
     "Name": "Skarmory",
     "Classification": "Armor Bird Pokemon",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -10500,10 +10502,10 @@
     "Number": "228",
     "Name": "Houndour",
     "Classification": "Dark Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
-    "TypeII": [
+    "Type II": [
       "Fire"
     ],
     "Weaknesses": [
@@ -10553,10 +10555,10 @@
     "Number": "229",
     "Name": "Houndoom",
     "Classification": "Dark Pokemon",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
-    "TypeII": [
+    "Type II": [
       "Fire"
     ],
     "Weaknesses": [
@@ -10601,10 +10603,10 @@
     "Number": "230",
     "Name": "Kingdra",
     "Classification": "Dragon Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Dragon"
     ],
     "Weaknesses": [
@@ -10642,7 +10644,7 @@
     "Number": "231",
     "Name": "Phanpy",
     "Classification": "Long Nose Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -10688,7 +10690,7 @@
     "Number": "232",
     "Name": "Donphan",
     "Classification": "Armor Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
@@ -10729,7 +10731,7 @@
     "Number": "233",
     "Name": "Porygon2",
     "Classification": "Virtual Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -10769,7 +10771,7 @@
     "Number": "234",
     "Name": "Stantler",
     "Classification": "Big Horn Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -10802,7 +10804,7 @@
     "Number": "235",
     "Name": "Smeargle",
     "Classification": "Painter Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -10831,7 +10833,7 @@
     "Number": "236",
     "Name": "Tyrogue",
     "Classification": "Scuffle Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -10878,7 +10880,7 @@
     "Number": "237",
     "Name": "Hitmontop",
     "Classification": "Handstand Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
@@ -10920,10 +10922,10 @@
     "Number": "238",
     "Name": "Smoochum",
     "Classification": "Kiss Pokemon",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
@@ -10973,7 +10975,7 @@
     "Number": "239",
     "Name": "Elekid",
     "Classification": "Electric Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -11017,7 +11019,7 @@
     "Number": "240",
     "Name": "Magby",
     "Classification": "Live Coal Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -11063,7 +11065,7 @@
     "Number": "241",
     "Name": "Miltank",
     "Classification": "Milk Cow Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -11096,7 +11098,7 @@
     "Number": "242",
     "Name": "Blissey",
     "Classification": "Happiness Pokemon",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
@@ -11136,7 +11138,7 @@
     "Number": "243",
     "Name": "Raikou",
     "Classification": "Thunder Pokemon",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
@@ -11162,15 +11164,15 @@
     "BaseAttack": 241,
     "BaseDefense": 210,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.02,
     "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "244",
     "Name": "Entei",
     "Classification": "Volcano Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
@@ -11198,15 +11200,15 @@
     "BaseAttack": 235,
     "BaseDefense": 176,
     "BaseStamina": 230,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.02,
     "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "245",
     "Name": "Suicune",
     "Classification": "Aurora Pokemon",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
@@ -11233,18 +11235,18 @@
     "BaseAttack": 180,
     "BaseDefense": 235,
     "BaseStamina": 200,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.02,
     "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "246",
     "Name": "Larvitar",
     "Classification": "Rock Skin Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -11298,10 +11300,10 @@
     "Number": "247",
     "Name": "Pupitar",
     "Classification": "Hard Shell Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
@@ -11357,10 +11359,10 @@
     "Number": "248",
     "Name": "Tyranitar",
     "Classification": "Armor Pokemon",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
@@ -11410,10 +11412,10 @@
     "Number": "249",
     "Name": "Lugia",
     "Classification": "Diving Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -11444,18 +11446,18 @@
     "BaseAttack": 193,
     "BaseDefense": 323,
     "BaseStamina": 212,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.02,
     "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "250",
-    "Name": "HoOh",
+    "Name": "Ho-Oh",
     "Classification": "Rainbow Pokemon",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
@@ -11473,7 +11475,7 @@
     "Weight": "199 kg",
     "Height": "3,81 m",
     "Candy": {
-      "Name": "HoOh candies",
+      "Name": "Ho-Oh candies",
       "FamilyID": 250
     },
     "Special Attack(s)": [
@@ -11485,18 +11487,18 @@
     "BaseAttack": 263,
     "BaseDefense": 301,
     "BaseStamina": 212,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.02,
     "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "251",
     "Name": "Celebi",
     "Classification": "Time Travel Pokemon",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
@@ -11536,14 +11538,15 @@
     "Number": "252",
     "Name": "Treecko",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Pound",
+      "Bullet Seed"
     ],
     "Weight": "5 kg",
     "Height": "0.51 m",
@@ -11567,27 +11570,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Energy Ball",
+      "Aerial Ace",
+      "Grass Knot"
     ],
     "BaseAttack": 124,
     "BaseDefense": 104,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "253",
     "Name": "Grovyle",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Quick Attack",
+      "Bullet Seed"
     ],
     "Weight": "21.6 kg",
     "Height": "0.89 m",
@@ -11613,27 +11619,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Leaf Blade",
+      "Aerial Ace",
+      "Grass Knot"
     ],
     "BaseAttack": 172,
     "BaseDefense": 130,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.1,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "254",
     "Name": "Sceptile",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Fury Cutter",
+      "Bullet Seed"
     ],
     "Weight": "52.2 kg",
     "Height": "1.7 m",
@@ -11652,27 +11661,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Leaf Blade",
+      "Aerial Ace",
+      "Earthquake"
     ],
     "BaseAttack": 223,
     "BaseDefense": 180,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "255",
     "Name": "Torchic",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Scratch",
+      "Ember"
     ],
     "Weight": "2.5 kg",
     "Height": "0.41 m",
@@ -11696,30 +11708,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Flame Charge",
+      "Flamethrower",
+      "Rock Tomb"
     ],
     "BaseAttack": 130,
     "BaseDefense": 92,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "256",
     "Name": "Combusken",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Fighting"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Peck",
+      "Ember"
     ],
     "Weight": "19.5 kg",
     "Height": "0.89 m",
@@ -11745,30 +11760,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Flame Charge",
+      "Flamethrower",
+      "Rock Slide"
     ],
     "BaseAttack": 163,
     "BaseDefense": 115,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.1,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "257",
     "Name": "Blaziken",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Fighting"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Counter",
+      "Fire Spin"
     ],
     "Weight": "52 kg",
     "Height": "1.91 m",
@@ -11787,27 +11805,31 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Focus Blast",
+      "Stone Edge",
+      "Overheat",
+      "Brave Bird"
     ],
     "BaseAttack": 240,
     "BaseDefense": 141,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "258",
     "Name": "Mudkip",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Water Gun"
     ],
     "Weight": "7.6 kg",
     "Height": "0.41 m",
@@ -11831,30 +11853,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Dig",
+      "Sludge",
+      "Stomp"
     ],
     "BaseAttack": 126,
     "BaseDefense": 93,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "259",
     "Name": "Marshtomp",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Mud Shot",
+      "Water Gun"
     ],
     "Weight": "28 kg",
     "Height": "0.71 m",
@@ -11880,30 +11905,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Mud Bomb",
+      "Sludge",
+      "Surf"
     ],
     "BaseAttack": 156,
     "BaseDefense": 133,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.1,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "260",
     "Name": "Swampert",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Mud Shot",
+      "Water Gun"
     ],
     "Weight": "81.9 kg",
     "Height": "1.5 m",
@@ -11922,27 +11950,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Earthquake",
+      "Sludge Wave",
+      "Surf"
     ],
     "BaseAttack": 208,
     "BaseDefense": 175,
     "BaseStamina": 200,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "261",
     "Name": "Poochyena",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Snarl"
     ],
     "Weight": "13.6 kg",
     "Height": "0.51 m",
@@ -11962,27 +11993,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Crunch",
+      "Dig",
+      "Poison Fang"
     ],
     "BaseAttack": 96,
     "BaseDefense": 63,
     "BaseStamina": 70,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "262",
     "Name": "Mightyena",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Fire Fang"
     ],
     "Weight": "37 kg",
     "Height": "0.99 m",
@@ -11997,27 +12031,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Crunch",
+      "Play Rough",
+      "Poison Fang"
     ],
     "BaseAttack": 171,
     "BaseDefense": 137,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "263",
     "Name": "Zigzagoon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Rock Smash"
     ],
     "Weight": "17.5 kg",
     "Height": "0.41 m",
@@ -12037,27 +12074,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Dig",
+      "Grass Knot",
+      "Thunderbolt"
     ],
     "BaseAttack": 58,
     "BaseDefense": 80,
     "BaseStamina": 76,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "264",
     "Name": "Linoone",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Shadow Claw",
+      "Tackle"
     ],
     "Weight": "32.5 kg",
     "Height": "0.51 m",
@@ -12072,27 +12112,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Dig",
+      "Grass Knot",
+      "Thunder"
     ],
     "BaseAttack": 142,
     "BaseDefense": 128,
     "BaseStamina": 156,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "265",
     "Name": "Wurmple",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Bug Bite"
     ],
     "Weight": "3.6 kg",
     "Height": "0.3 m",
@@ -12129,22 +12172,23 @@
     "BaseAttack": 75,
     "BaseDefense": 61,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "266",
     "Name": "Silcoon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Poison Sting",
+      "Bug Bite"
     ],
     "Weight": "10 kg",
     "Height": "0.61 m",
@@ -12179,25 +12223,26 @@
     "BaseAttack": 60,
     "BaseDefense": 91,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "267",
     "Name": "Beautifly",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Struggle Bug",
+      "Infestation"
     ],
     "Weight": "28.4 kg",
     "Height": "0.99 m",
@@ -12220,27 +12265,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Silver Wind",
+      "Air Cutter",
+      "Bug Buzz"
     ],
     "BaseAttack": 189,
     "BaseDefense": 98,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "268",
     "Name": "Cascoon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Poison Sting",
+      "Bug Bite"
     ],
     "Weight": "11.5 kg",
     "Height": "0.71 m",
@@ -12275,25 +12323,26 @@
     "BaseAttack": 60,
     "BaseDefense": 91,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "269",
     "Name": "Dustox",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Struggle Bug",
+      "Confusion"
     ],
     "Weight": "31.6 kg",
     "Height": "1.19 m",
@@ -12316,30 +12365,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Silver Wind",
+      "Sludge Bomb",
+      "Bug Buzz"
     ],
     "BaseAttack": 98,
     "BaseDefense": 172,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "270",
     "Name": "Lotad",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Razor Leaf"
     ],
     "Weight": "2.6 kg",
     "Height": "0.51 m",
@@ -12363,30 +12415,32 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Bubble Beam",
+      "Energy Ball"
     ],
     "BaseAttack": 71,
     "BaseDefense": 86,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "271",
     "Name": "Lombre",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bubble",
+      "Razor Leaf"
     ],
     "Weight": "32.5 kg",
     "Height": "1.19 m",
@@ -12412,30 +12466,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Bubble Beam",
+      "Ice Beam",
+      "Grass Knot"
     ],
     "BaseAttack": 112,
     "BaseDefense": 128,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "272",
     "Name": "Ludicolo",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bubble",
+      "Razor Leaf"
     ],
     "Weight": "55 kg",
     "Height": "1.5 m",
@@ -12454,27 +12511,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Hydro Pump",
+      "Blizzard",
+      "Solar Beam"
     ],
     "BaseAttack": 173,
     "BaseDefense": 191,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "273",
     "Name": "Seedot",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bullet Seed",
+      "Quick Attack"
     ],
     "Weight": "4 kg",
     "Height": "0.51 m",
@@ -12498,30 +12558,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Energy Ball",
+      "Grass Knot",
+      "Foul Play"
     ],
     "BaseAttack": 71,
     "BaseDefense": 86,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "274",
     "Name": "Nuzleaf",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Razor Leaf",
+      "Feint Attack"
     ],
     "Weight": "28 kg",
     "Height": "0.99 m",
@@ -12547,30 +12610,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Leaf Blade",
+      "Grass Knot",
+      "Foul Play"
     ],
     "BaseAttack": 134,
     "BaseDefense": 78,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "275",
     "Name": "Shiftry",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Razor Leaf",
+      "Feint Attack"
     ],
     "Weight": "59.6 kg",
     "Height": "1.3 m",
@@ -12589,30 +12655,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Leaf Blade",
+      "Hurricane",
+      "Foul Play"
     ],
     "BaseAttack": 200,
     "BaseDefense": 121,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "276",
     "Name": "Taillow",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Peck",
+      "Quick Attack"
     ],
     "Weight": "2.3 kg",
     "Height": "0.3 m",
@@ -12632,30 +12701,31 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aerial Ace"
     ],
     "BaseAttack": 106,
     "BaseDefense": 61,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "277",
     "Name": "Swellow",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Wing Attack",
+      "Steel Wing"
     ],
     "Weight": "19.8 kg",
     "Height": "0.71 m",
@@ -12670,30 +12740,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aerial Ace",
+      "Brave Bird",
+      "Sky Attack"
     ],
     "BaseAttack": 185,
     "BaseDefense": 130,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "278",
     "Name": "Wingull",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Quick Attack"
     ],
     "Weight": "9.5 kg",
     "Height": "0.61 m",
@@ -12713,30 +12786,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Water Pulse",
+      "Air Cutter",
+      "Ice Beam"
     ],
     "BaseAttack": 106,
     "BaseDefense": 61,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "279",
     "Name": "Pelipper",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Wing Attack"
     ],
     "Weight": "28 kg",
     "Height": "1.19 m",
@@ -12751,30 +12827,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Hydro Pump",
+      "Hurricane",
+      "Blizzard"
     ],
     "BaseAttack": 175,
     "BaseDefense": 189,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "280",
     "Name": "Ralts",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Confusion",
+      "Charge Beam"
     ],
     "Weight": "6.6 kg",
     "Height": "0.41 m",
@@ -12798,30 +12877,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psyshock",
+      "Disarming Voice",
+      "Shadow Sneak"
     ],
     "BaseAttack": 79,
     "BaseDefense": 63,
     "BaseStamina": 56,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.4,
+    "FleeRate": 0.09,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "281",
     "Name": "Kirlia",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Confusion",
+      "Charge Beam"
     ],
     "Weight": "20.2 kg",
     "Height": "0.79 m",
@@ -12847,30 +12929,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Disarming Voice",
+      "Shadow Sneak"
     ],
     "BaseAttack": 117,
     "BaseDefense": 100,
     "BaseStamina": 76,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.06,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "282",
     "Name": "Gardevoir",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Confusion",
+      "Charge Beam"
     ],
     "Weight": "48.4 kg",
     "Height": "1.6 m",
@@ -12889,30 +12974,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Dazzling Gleam",
+      "Shadow Ball"
     ],
     "BaseAttack": 237,
     "BaseDefense": 220,
     "BaseStamina": 136,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "283",
     "Name": "Surskit",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bubble",
+      "Bug Bite"
     ],
     "Weight": "1.7 kg",
     "Height": "0.51 m",
@@ -12932,30 +13020,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aqua Jet",
+      "Bubble Beam",
+      "Signal Beam"
     ],
     "BaseAttack": 93,
     "BaseDefense": 97,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "284",
     "Name": "Masquerain",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Infestation",
+      "Air Slash"
     ],
     "Weight": "3.6 kg",
     "Height": "0.79 m",
@@ -12970,27 +13061,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Air Cutter",
+      "Ominous Wind",
+      "Silver Wind"
     ],
     "BaseAttack": 192,
     "BaseDefense": 161,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "285",
     "Name": "Shroomish",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Bullet Seed"
     ],
     "Weight": "4.5 kg",
     "Height": "0.41 m",
@@ -13010,30 +13104,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Seed Bomb",
+      "Grass Knot",
+      "Energy Ball"
     ],
     "BaseAttack": 74,
     "BaseDefense": 110,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "286",
     "Name": "Breloom",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Fighting"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Counter",
+      "Bullet Seed"
     ],
     "Weight": "39.2 kg",
     "Height": "1.19 m",
@@ -13048,27 +13145,29 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Dynamic Punch",
+      "Seed Bomb",
+      "Sludge Bomb"
     ],
     "BaseAttack": 241,
     "BaseDefense": 153,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "287",
     "Name": "Slakoth",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Yawn"
     ],
     "Weight": "24 kg",
     "Height": "0.79 m",
@@ -13092,27 +13191,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Body Slam",
+      "Night Slash",
+      "Brick Break"
     ],
     "BaseAttack": 104,
     "BaseDefense": 104,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.4,
+    "FleeRate": 0.09,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "288",
     "Name": "Vigoroth",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Scratch",
+      "Counter"
     ],
     "Weight": "46.5 kg",
     "Height": "1.4 m",
@@ -13138,27 +13240,29 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Body Slam",
+      "Bulldoze",
+      "Brick Break"
     ],
     "BaseAttack": 159,
     "BaseDefense": 159,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.06,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "289",
     "Name": "Slaking",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Yawn"
     ],
     "Weight": "130.5 kg",
     "Height": "2.01 m",
@@ -13177,30 +13281,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Hyper Beam",
+      "Play Rough",
+      "Earthquake"
     ],
-    "BaseAttack": 319,
-    "BaseDefense": 201,
-    "BaseStamina": 300,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "BaseAttack": 290,
+    "BaseDefense": 183,
+    "BaseStamina": 273,
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "290",
     "Name": "Nincada",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Scratch",
+      "Bug Bite"
     ],
     "Weight": "5.5 kg",
     "Height": "0.51 m",
@@ -13224,30 +13331,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Night Slash",
+      "Bug Buzz",
+      "Aerial Ace"
     ],
     "BaseAttack": 80,
     "BaseDefense": 153,
     "BaseStamina": 62,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.2,
+    "FleeRate": 0.1,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "291",
     "Name": "Ninjask",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Fury Cutter",
+      "Metal Claw"
     ],
     "Weight": "12 kg",
     "Height": "0.79 m",
@@ -13262,30 +13372,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Shadow Ball",
+      "Bug Buzz",
+      "Aerial Ace"
     ],
     "BaseAttack": 196,
     "BaseDefense": 114,
     "BaseStamina": 122,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.07,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "292",
     "Name": "Shedinja",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
-    "TypeII": [
+    "Type II": [
       "Ghost"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Struggle Bug"
     ],
     "Weight": "1.2 kg",
     "Height": "0.79 m",
@@ -13300,27 +13413,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Shadow Sneak",
+      "Aerial Ace",
+      "Dig"
     ],
     "BaseAttack": 153,
     "BaseDefense": 80,
     "BaseStamina": 2,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "293",
     "Name": "Whismur",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Pound",
+      "Astonish"
     ],
     "Weight": "16.3 kg",
     "Height": "0.61 m",
@@ -13344,27 +13460,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Stomp",
+      "Disarming Voice",
+      "Flamethrower"
     ],
     "BaseAttack": 92,
     "BaseDefense": 42,
     "BaseStamina": 128,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "294",
     "Name": "Loudred",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Rock Smash"
     ],
     "Weight": "40.5 kg",
     "Height": "0.99 m",
@@ -13390,27 +13509,31 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Crunch",
+      "Disarming Voice",
+      "Flamethrower",
+      "Stomp"
     ],
     "BaseAttack": 134,
     "BaseDefense": 81,
     "BaseStamina": 168,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "295",
     "Name": "Exploud",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Astonish"
     ],
     "Weight": "84 kg",
     "Height": "1.5 m",
@@ -13429,27 +13552,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Crunch",
+      "Disarming Voice",
+      "Fire Blast"
     ],
     "BaseAttack": 179,
     "BaseDefense": 142,
     "BaseStamina": 208,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "296",
     "Name": "Makuhita",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Rock Smash",
+      "Tackle"
     ],
     "Weight": "86.4 kg",
     "Height": "0.99 m",
@@ -13469,27 +13595,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Heavy Slam",
+      "Low Sweep",
+      "Cross Chop"
     ],
     "BaseAttack": 99,
     "BaseDefense": 54,
     "BaseStamina": 144,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "297",
     "Name": "Hariyama",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Counter",
+      "Bullet Punch"
     ],
     "Weight": "253.8 kg",
     "Height": "2.31 m",
@@ -13504,30 +13633,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Heavy Slam",
+      "Close Combat",
+      "Dynamic Punch"
     ],
     "BaseAttack": 209,
     "BaseDefense": 114,
     "BaseStamina": 288,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "298",
     "Name": "Azurill",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Splash",
+      "Bubble"
     ],
     "Weight": "2 kg",
     "Height": "0.2 m",
@@ -13535,7 +13667,12 @@
       "Name": "Marill candies",
       "FamilyID": 183
     },
-    "Previous evolution(s)": [
+    "Next Evolution Requirements": {
+      "Amount": 25,
+      "Family": 183,
+      "Name": "Marill candies"
+    },
+    "Next evolution(s)": [
       {
         "Number": "183",
         "Name": "Marill"
@@ -13546,27 +13683,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Bubble Beam",
+      "Ice Beam",
+      "Body Slam"
     ],
     "BaseAttack": 36,
     "BaseDefense": 71,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
+    "CaptureRate": 0.1,
     "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "299",
     "Name": "Nosepass",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Rock Throw",
+      "Spark"
     ],
     "Weight": "97 kg",
     "Height": "0.99 m",
@@ -13575,27 +13715,30 @@
       "FamilyID": 299
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Rock Blast",
+      "Rock Slide",
+      "Thunderbolt"
     ],
     "BaseAttack": 82,
     "BaseDefense": 236,
     "BaseStamina": 60,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "300",
     "Name": "Skitty",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Feint Attack",
+      "Tackle"
     ],
     "Weight": "11 kg",
     "Height": "0.61 m",
@@ -13615,27 +13758,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Dig",
+      "Disarming Voice",
+      "Wild Charge"
     ],
     "BaseAttack": 84,
     "BaseDefense": 84,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "301",
     "Name": "Delcatty",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Feint Attack",
+      "Zen Headbutt"
     ],
     "Weight": "32.6 kg",
     "Height": "1.09 m",
@@ -13650,23 +13796,25 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Play Rough",
+      "Disarming Voice",
+      "Wild Charge"
     ],
     "BaseAttack": 132,
     "BaseDefense": 132,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "302",
     "Name": "Sableye",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
-    "TypeII": [
+    "Type II": [
       "Ghost"
     ],
     "Weaknesses": [
@@ -13698,17 +13846,18 @@
     "Number": "303",
     "Name": "Mawile",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Fairy"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Astonish"
     ],
     "Weight": "11.5 kg",
     "Height": "0.61 m",
@@ -13717,30 +13866,33 @@
       "FamilyID": 303
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Play Rough",
+      "Vice Grip",
+      "Iron Head"
     ],
     "BaseAttack": 155,
     "BaseDefense": 155,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.5,
+    "FleeRate": 0.09,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "304",
     "Name": "Aron",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Metal Claw"
     ],
     "Weight": "60 kg",
     "Height": "0.41 m",
@@ -13764,30 +13916,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Iron Head",
+      "Rock Tomb",
+      "Body Slam"
     ],
     "BaseAttack": 121,
     "BaseDefense": 168,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.2,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "305",
     "Name": "Lairon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Metal Claw",
+      "Iron Tail"
     ],
     "Weight": "120 kg",
     "Height": "0.89 m",
@@ -13813,30 +13968,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Body Slam",
+      "Rock Slide",
+      "Heavy Slam"
     ],
     "BaseAttack": 158,
     "BaseDefense": 240,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "306",
     "Name": "Aggron",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Dragon Tail",
+      "Iron Tail"
     ],
     "Weight": "360 kg",
     "Height": "2.11 m",
@@ -13855,30 +14013,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Thunder",
+      "Stone Edge",
+      "Heavy Slam"
     ],
     "BaseAttack": 198,
     "BaseDefense": 314,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "307",
     "Name": "Meditite",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Confusion",
+      "Rock Smash"
     ],
     "Weight": "11.2 kg",
     "Height": "0.61 m",
@@ -13898,30 +14059,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Ice Punch",
+      "Psyshock",
+      "Low Sweep"
     ],
     "BaseAttack": 78,
     "BaseDefense": 107,
     "BaseStamina": 60,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "308",
     "Name": "Medicham",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fighting"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Psycho Cut",
+      "Counter"
     ],
     "Weight": "31.5 kg",
     "Height": "1.3 m",
@@ -13936,27 +14100,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Ice Punch",
+      "Psychic",
+      "Dynamic Punch"
     ],
     "BaseAttack": 121,
     "BaseDefense": 152,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "309",
     "Name": "Electrike",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Quick Attack",
+      "Spark"
     ],
     "Weight": "15.2 kg",
     "Height": "0.61 m",
@@ -13976,27 +14143,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Thunderbolt",
+      "Discharge",
+      "Swift"
     ],
     "BaseAttack": 123,
     "BaseDefense": 78,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "310",
     "Name": "Manectric",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Snarl",
+      "Charge Beam"
     ],
     "Weight": "40.2 kg",
     "Height": "1.5 m",
@@ -14011,27 +14181,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Thunder",
+      "Wild Charge",
+      "Flame Burst"
     ],
     "BaseAttack": 215,
     "BaseDefense": 127,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "311",
     "Name": "Plusle",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Spark",
+      "Quick Attack"
     ],
     "Weight": "4.2 kg",
     "Height": "0.41 m",
@@ -14040,27 +14213,30 @@
       "FamilyID": 311
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Thunderbolt",
+      "Discharge",
+      "Swift"
     ],
     "BaseAttack": 167,
     "BaseDefense": 147,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "312",
     "Name": "Minun",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Electric"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Spark",
+      "Quick Attack"
     ],
     "Weight": "4.2 kg",
     "Height": "0.41 m",
@@ -14069,27 +14245,30 @@
       "FamilyID": 312
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Thunderbolt",
+      "Discharge",
+      "Swift"
     ],
     "BaseAttack": 147,
     "BaseDefense": 167,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "313",
     "Name": "Volbeat",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Struggle Bug",
+      "Tackle"
     ],
     "Weight": "17.7 kg",
     "Height": "0.71 m",
@@ -14098,27 +14277,30 @@
       "FamilyID": 313
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Signal Beam",
+      "Bug Buzz",
+      "Thunderbolt"
     ],
     "BaseAttack": 143,
     "BaseDefense": 171,
     "BaseStamina": 130,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "314",
     "Name": "Illumise",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Struggle Bug",
+      "Tackle"
     ],
     "Weight": "17.7 kg",
     "Height": "0.61 m",
@@ -14127,30 +14309,33 @@
       "FamilyID": 314
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Silver Wind",
+      "Bug Buzz",
+      "Dazzling Gleam"
     ],
     "BaseAttack": 143,
     "BaseDefense": 171,
     "BaseStamina": 130,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "315",
     "Name": "Roselia",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Poison"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Poison Jab",
+      "Razor Leaf"
     ],
     "Weight": "2 kg",
     "Height": "0.3 m",
@@ -14159,27 +14344,30 @@
       "FamilyID": 315
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Petal Blizzard",
+      "Sludge Bomb",
+      "Dazzling Gleam"
     ],
     "BaseAttack": 186,
     "BaseDefense": 148,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "316",
     "Name": "Gulpin",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Pound",
+      "Rock Smash"
     ],
     "Weight": "10.3 kg",
     "Height": "0.41 m",
@@ -14199,27 +14387,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Sludge",
+      "Gunk Shot",
+      "Ice Beam"
     ],
     "BaseAttack": 80,
     "BaseDefense": 99,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "317",
     "Name": "Swalot",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Rock Smash",
+      "Infestation"
     ],
     "Weight": "80 kg",
     "Height": "1.7 m",
@@ -14234,30 +14425,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Gunk Shot",
+      "Sludge Bomb",
+      "Ice Beam"
     ],
     "BaseAttack": 140,
     "BaseDefense": 159,
     "BaseStamina": 200,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "318",
     "Name": "Carvanha",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Snarl"
     ],
     "Weight": "20.8 kg",
     "Height": "0.79 m",
@@ -14277,30 +14471,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aqua Jet",
+      "Crunch",
+      "Poison Fang"
     ],
     "BaseAttack": 171,
     "BaseDefense": 39,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "319",
     "Name": "Sharpedo",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Waterfall"
     ],
     "Weight": "88.8 kg",
     "Height": "1.8 m",
@@ -14315,27 +14512,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Hydro Pump",
+      "Crunch",
+      "Poison Fang"
     ],
     "BaseAttack": 243,
     "BaseDefense": 83,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "320",
     "Name": "Wailmer",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Splash",
+      "Water Gun"
     ],
     "Weight": "130 kg",
     "Height": "2.01 m",
@@ -14344,7 +14544,7 @@
       "FamilyID": 320
     },
     "Next Evolution Requirements": {
-      "Amount": 50,
+      "Amount": 400,
       "Family": 320,
       "Name": "Wailmer candies"
     },
@@ -14355,27 +14555,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Heavy Slam",
+      "Water Pulse",
+      "Body Slam"
     ],
     "BaseAttack": 136,
     "BaseDefense": 68,
     "BaseStamina": 260,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "321",
     "Name": "Wailord",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Zen Headbutt",
+      "Water Gun"
     ],
     "Weight": "398 kg",
     "Height": "14.5 m",
@@ -14390,30 +14593,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Surf",
+      "Blizzard",
+      "Hyper Beam"
     ],
     "BaseAttack": 175,
     "BaseDefense": 87,
     "BaseStamina": 340,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "322",
     "Name": "Numel",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Ember",
+      "Tackle"
     ],
     "Weight": "24 kg",
     "Height": "0.71 m",
@@ -14433,30 +14639,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Bulldoze",
+      "Heat Wave",
+      "Stomp"
     ],
     "BaseAttack": 119,
     "BaseDefense": 82,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "323",
     "Name": "Camerupt",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Ember",
+      "Rock Smash"
     ],
     "Weight": "220 kg",
     "Height": "1.91 m",
@@ -14471,27 +14680,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Earthquake",
+      "Overheat",
+      "Solar Beam"
     ],
     "BaseAttack": 194,
     "BaseDefense": 139,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "324",
     "Name": "Torkoal",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Fire"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Fire Spin",
+      "Ember"
     ],
     "Weight": "80.4 kg",
     "Height": "0.51 m",
@@ -14500,27 +14712,30 @@
       "FamilyID": 324
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Overheat",
+      "Solar Beam",
+      "Earthquake"
     ],
     "BaseAttack": 151,
     "BaseDefense": 234,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "325",
     "Name": "Spoink",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Splash",
+      "Zen Headbutt"
     ],
     "Weight": "30.6 kg",
     "Height": "0.71 m",
@@ -14540,27 +14755,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psybeam",
+      "Shadow Ball",
+      "Mirror Coat"
     ],
     "BaseAttack": 125,
     "BaseDefense": 145,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "326",
     "Name": "Grumpig",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Charge Beam",
+      "Extrasensory"
     ],
     "Weight": "71.5 kg",
     "Height": "0.89 m",
@@ -14575,27 +14793,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Shadow Ball",
+      "Mirror Coat"
     ],
     "BaseAttack": 171,
     "BaseDefense": 211,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "327",
     "Name": "Spinda",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Sucker Punch",
+      "Psycho Cut"
     ],
     "Weight": "5 kg",
     "Height": "1.09 m",
@@ -14604,27 +14825,30 @@
       "FamilyID": 327
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Dig",
+      "Rock Tomb",
+      "Icy Wind"
     ],
     "BaseAttack": 116,
     "BaseDefense": 116,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "328",
     "Name": "Trapinch",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Mud Shot",
+      "Struggle Bug"
     ],
     "Weight": "15 kg",
     "Height": "0.71 m",
@@ -14648,30 +14872,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Sand Tomb",
+      "Dig",
+      "Crunch"
     ],
     "BaseAttack": 162,
     "BaseDefense": 78,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.4,
+    "FleeRate": 0.09,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "329",
     "Name": "Vibrava",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Dragon"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Mud Shot",
+      "Dragon Breath"
     ],
     "Weight": "15.3 kg",
     "Height": "1.09 m",
@@ -14697,30 +14924,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Sand Tomb",
+      "Bulldoze",
+      "Bug Buzz"
     ],
     "BaseAttack": 134,
     "BaseDefense": 99,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.06,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "330",
     "Name": "Flygon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Dragon"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Mud Shot",
+      "Dragon Tail"
     ],
     "Weight": "82 kg",
     "Height": "2.01 m",
@@ -14739,27 +14969,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Earthquake",
+      "Dragon Claw",
+      "Stone Edge"
     ],
     "BaseAttack": 205,
     "BaseDefense": 168,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "331",
     "Name": "Cacnea",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Poison Sting",
+      "Sucker Punch"
     ],
     "Weight": "51.3 kg",
     "Height": "0.41 m",
@@ -14779,30 +15012,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Grass Knot",
+      "Brick Break",
+      "Seed Bomb"
     ],
     "BaseAttack": 156,
     "BaseDefense": 74,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "332",
     "Name": "Cacturne",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Poison Jab",
+      "Sucker Punch"
     ],
     "Weight": "77.4 kg",
     "Height": "1.3 m",
@@ -14817,30 +15053,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Dark Pulse",
+      "Dynamic Punch",
+      "Grass Knot"
     ],
     "BaseAttack": 221,
     "BaseDefense": 115,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "333",
     "Name": "Swablu",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Peck",
+      "Astonish"
     ],
     "Weight": "1.2 kg",
     "Height": "0.41 m",
@@ -14849,7 +15088,7 @@
       "FamilyID": 333
     },
     "Next Evolution Requirements": {
-      "Amount": 50,
+      "Amount": 400,
       "Family": 333,
       "Name": "Swablu candies"
     },
@@ -14860,30 +15099,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Disarming Voice",
+      "Aerial Ace",
+      "Ice Beam"
     ],
     "BaseAttack": 76,
     "BaseDefense": 139,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "334",
     "Name": "Altaria",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Peck",
+      "Dragon Breath"
     ],
     "Weight": "20.6 kg",
     "Height": "1.09 m",
@@ -14898,27 +15140,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Sky Attack",
+      "Dazzling Gleam",
+      "Dragon Pulse"
     ],
     "BaseAttack": 141,
     "BaseDefense": 208,
     "BaseStamina": 150,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "335",
     "Name": "Zangoose",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Fury Cutter",
+      "Shadow Claw"
     ],
     "Weight": "40.3 kg",
     "Height": "1.3 m",
@@ -14927,27 +15172,30 @@
       "FamilyID": 335
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Close Combat",
+      "Night Slash",
+      "Dig"
     ],
     "BaseAttack": 222,
     "BaseDefense": 124,
     "BaseStamina": 146,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "336",
     "Name": "Seviper",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Poison"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Poison Jab",
+      "Iron Tail"
     ],
     "Weight": "52.5 kg",
     "Height": "2.69 m",
@@ -14956,30 +15204,33 @@
       "FamilyID": 336
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Poison Fang",
+      "Crunch",
+      "Wrap"
     ],
     "BaseAttack": 196,
     "BaseDefense": 118,
     "BaseStamina": 146,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "337",
     "Name": "Lunatone",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Rock Throw",
+      "Confusion"
     ],
     "Weight": "168 kg",
     "Height": "0.99 m",
@@ -14988,30 +15239,33 @@
       "FamilyID": 337
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Rock Slide",
+      "Moonblast"
     ],
     "BaseAttack": 178,
     "BaseDefense": 163,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "338",
     "Name": "Solrock",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Rock Throw",
+      "Confusion"
     ],
     "Weight": "154 kg",
     "Height": "1.19 m",
@@ -15020,30 +15274,33 @@
       "FamilyID": 338
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Rock Slide",
+      "Solar Beam"
     ],
     "BaseAttack": 178,
     "BaseDefense": 163,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.09,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "339",
     "Name": "Barboach",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Mud Shot"
     ],
     "Weight": "1.9 kg",
     "Height": "0.41 m",
@@ -15063,30 +15320,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aqua Tail",
+      "Ice Beam",
+      "Mud Bomb"
     ],
     "BaseAttack": 93,
     "BaseDefense": 83,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "340",
     "Name": "Whiscash",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Mud Shot"
     ],
     "Weight": "23.6 kg",
     "Height": "0.89 m",
@@ -15101,27 +15361,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Water Pulse",
+      "Blizzard",
+      "Mud Bomb"
     ],
     "BaseAttack": 151,
     "BaseDefense": 142,
     "BaseStamina": 220,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 1
   },
   {
     "Number": "341",
     "Name": "Corphish",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bubble",
+      "Rock Smash"
     ],
     "Weight": "11.5 kg",
     "Height": "0.61 m",
@@ -15141,30 +15404,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Vice Grip",
+      "Bubble Beam",
+      "Aqua Jet"
     ],
     "BaseAttack": 141,
     "BaseDefense": 113,
     "BaseStamina": 86,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "342",
     "Name": "Crawdaunt",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Waterfall",
+      "Snarl"
     ],
     "Weight": "32.8 kg",
     "Height": "1.09 m",
@@ -15179,30 +15445,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Vice Grip",
+      "Bubble Beam",
+      "Night Slash"
     ],
     "BaseAttack": 224,
     "BaseDefense": 156,
     "BaseStamina": 126,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "343",
     "Name": "Baltoy",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Confusion",
+      "Extrasensory"
     ],
     "Weight": "21.5 kg",
     "Height": "0.51 m",
@@ -15222,30 +15491,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Gyro Ball",
+      "Psybeam",
+      "Dig"
     ],
     "BaseAttack": 77,
     "BaseDefense": 131,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "344",
     "Name": "Claydol",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Extrasensory",
+      "Confusion"
     ],
     "Weight": "108 kg",
     "Height": "1.5 m",
@@ -15260,30 +15532,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Gyro Ball",
+      "Psychic",
+      "Earthquake"
     ],
     "BaseAttack": 140,
     "BaseDefense": 236,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "345",
     "Name": "Lileep",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Acid",
+      "Infestation"
     ],
     "Weight": "23.8 kg",
     "Height": "0.99 m",
@@ -15303,30 +15578,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Grass Knot",
+      "Mirror Coat",
+      "Ancient Power"
     ],
     "BaseAttack": 105,
     "BaseDefense": 154,
     "BaseStamina": 132,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "346",
     "Name": "Cradily",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Grass"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Acid",
+      "Infestation"
     ],
     "Weight": "60.4 kg",
     "Height": "1.5 m",
@@ -15341,30 +15619,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Grass Knot",
+      "Bulldoze",
+      "Stone Edge"
     ],
     "BaseAttack": 152,
     "BaseDefense": 198,
     "BaseStamina": 172,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "347",
     "Name": "Anorith",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Struggle Bug",
+      "Scratch"
     ],
     "Weight": "12.5 kg",
     "Height": "0.71 m",
@@ -15384,30 +15665,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Cross Poison",
+      "Aqua Jet",
+      "Ancient Power"
     ],
     "BaseAttack": 176,
     "BaseDefense": 100,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "348",
     "Name": "Armaldo",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
-    "TypeII": [
+    "Type II": [
       "Bug"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Fury Cutter",
+      "Struggle Bug"
     ],
     "Weight": "68.2 kg",
     "Height": "1.5 m",
@@ -15422,27 +15706,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Cross Poison",
+      "Water Pulse",
+      "Rock Blast"
     ],
     "BaseAttack": 222,
     "BaseDefense": 183,
     "BaseStamina": 150,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "349",
     "Name": "Feebas",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Splash",
+      "Tackle"
     ],
     "Weight": "7.4 kg",
     "Height": "0.61 m",
@@ -15462,27 +15749,29 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Mirror Coat"
     ],
     "BaseAttack": 29,
     "BaseDefense": 102,
     "BaseStamina": 40,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.7,
+    "FleeRate": 0.15,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "350",
     "Name": "Milotic",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Waterfall",
+      "Water Gun",
+      "Dragon Tail"
     ],
     "Weight": "162 kg",
     "Height": "6.2 m",
@@ -15497,27 +15786,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Surf",
+      "Blizzard",
+      "Hyper Beam"
     ],
     "BaseAttack": 192,
     "BaseDefense": 242,
     "BaseStamina": 190,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.07,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "351",
     "Name": "Castform",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Tackle",
+      "Hex",
+      "Water Gun",
+      "Powder Snow",
+      "Ember"
     ],
     "Weight": "0.8 kg",
     "Height": "0.3 m",
@@ -15526,27 +15821,35 @@
       "FamilyID": 351
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Hurricane",
+      "Energy Ball",
+      "Hydro Pump",
+      "Thunder",
+      "Blizzard",
+      "Ice Beam",
+      "Fire Blast",
+      "Solar Beam"
     ],
     "BaseAttack": 139,
     "BaseDefense": 139,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.3,
+    "FleeRate": 0.1,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "352",
     "Name": "Kecleon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Normal"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Lick",
+      "Sucker Punch"
     ],
     "Weight": "22 kg",
     "Height": "0.99 m",
@@ -15555,20 +15858,25 @@
       "FamilyID": 352
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Foul Play",
+      "Flamethrower",
+      "Thunder",
+      "Ice Beam",
+      "Aerial Ace",
+      "Shadow Sneak"
     ],
     "BaseAttack": 161,
     "BaseDefense": 212,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.3,
+    "FleeRate": 0.1,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "353",
     "Name": "Shuppet",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
     "Weaknesses": [
@@ -15611,7 +15919,7 @@
     "Number": "354",
     "Name": "Banette",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
     "Weaknesses": [
@@ -15649,7 +15957,7 @@
     "Number": "355",
     "Name": "Duskull",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
     "Weaknesses": [
@@ -15692,7 +16000,7 @@
     "Number": "356",
     "Name": "Dusclops",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ghost"
     ],
     "Weaknesses": [
@@ -15730,17 +16038,18 @@
     "Number": "357",
     "Name": "Tropius",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Grass"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Air Slash",
+      "Razor Leaf"
     ],
     "Weight": "100 kg",
     "Height": "2.01 m",
@@ -15749,27 +16058,30 @@
       "FamilyID": 357
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Stomp",
+      "Aerial Ace",
+      "Leaf Blade"
     ],
     "BaseAttack": 136,
     "BaseDefense": 165,
     "BaseStamina": 198,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.3,
+    "FleeRate": 0.1,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "358",
     "Name": "Chimecho",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Extrasensory",
+      "Astonish"
     ],
     "Weight": "1 kg",
     "Height": "0.61 m",
@@ -15778,27 +16090,30 @@
       "FamilyID": 358
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Energy Ball",
+      "Shadow Ball",
+      "Psyshock"
     ],
     "BaseAttack": 175,
     "BaseDefense": 174,
     "BaseStamina": 150,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.3,
+    "FleeRate": 0.1,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "359",
     "Name": "Absol",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dark"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Psycho Cut",
+      "Snarl"
     ],
     "Weight": "47 kg",
     "Height": "1.19 m",
@@ -15807,27 +16122,30 @@
       "FamilyID": 359
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Dark Pulse",
+      "Thunder",
+      "Megahorn"
     ],
     "BaseAttack": 246,
     "BaseDefense": 120,
     "BaseStamina": 130,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "360",
     "Name": "Wynaut",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Splash",
+      "Counter"
     ],
     "Weight": "14 kg",
     "Height": "0.61 m",
@@ -15836,33 +16154,39 @@
       "FamilyID": 202
     },
     "Next Evolution Requirements": {
-      "Amount": 50,
+      "Amount": 25,
       "Family": 202,
       "Name": "Wobbuffet candies"
     },
-    "Next evolution(s)": [],
+    "Next evolution(s)": [
+      {
+        "Number": "202",
+        "Name": "Wobbuffet"
+      }
+    ],
     "Special Attack(s)": [
-      "Struggle"
+      "Mirror Coat"
     ],
     "BaseAttack": 41,
     "BaseDefense": 86,
     "BaseStamina": 190,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "361",
     "Name": "Snorunt",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Powder Snow",
+      "Hex"
     ],
     "Weight": "16.8 kg",
     "Height": "0.71 m",
@@ -15882,27 +16206,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Avalanche",
+      "Icy Wind",
+      "Shadow Ball"
     ],
     "BaseAttack": 95,
     "BaseDefense": 95,
     "BaseStamina": 100,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "362",
     "Name": "Glalie",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Ice Shard",
+      "Frost Breath"
     ],
     "Weight": "256.5 kg",
     "Height": "1.5 m",
@@ -15917,30 +16244,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Avalanche",
+      "Gyro Ball",
+      "Shadow Ball"
     ],
     "BaseAttack": 162,
     "BaseDefense": 162,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "363",
     "Name": "Spheal",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Rock Smash"
     ],
     "Weight": "39.5 kg",
     "Height": "0.79 m",
@@ -15964,30 +16294,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aurora Beam",
+      "Body Slam",
+      "Water Pulse"
     ],
     "BaseAttack": 95,
     "BaseDefense": 90,
     "BaseStamina": 140,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "364",
     "Name": "Sealeo",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Powder Snow"
     ],
     "Weight": "87.6 kg",
     "Height": "1.09 m",
@@ -16013,30 +16346,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Aurora Beam",
+      "Body Slam",
+      "Water Pulse"
     ],
     "BaseAttack": 137,
     "BaseDefense": 132,
     "BaseStamina": 180,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.25,
+    "FleeRate": 0.07,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "365",
     "Name": "Walrein",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
-    "TypeII": [
+    "Type II": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Waterfall",
+      "Frost Breath"
     ],
     "Weight": "150.6 kg",
     "Height": "1.4 m",
@@ -16055,27 +16391,29 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Blizzard",
+      "Earthquake",
+      "Water Pulse"
     ],
     "BaseAttack": 182,
     "BaseDefense": 176,
     "BaseStamina": 220,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.13,
+    "FleeRate": 0.05,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "366",
     "Name": "Clamperl",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun"
     ],
     "Weight": "52.5 kg",
     "Height": "0.41 m",
@@ -16099,27 +16437,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Body Slam",
+      "Ice Beam",
+      "Water Pulse"
     ],
     "BaseAttack": 133,
     "BaseDefense": 149,
     "BaseStamina": 70,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.5,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "367",
     "Name": "Huntail",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Bite"
     ],
     "Weight": "27 kg",
     "Height": "1.7 m",
@@ -16134,27 +16475,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Crunch",
+      "Ice Beam",
+      "Aqua Tail"
     ],
     "BaseAttack": 197,
     "BaseDefense": 194,
     "BaseStamina": 110,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "368",
     "Name": "Gorebyss",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Confusion"
     ],
     "Weight": "22.6 kg",
     "Height": "1.8 m",
@@ -16169,30 +16513,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Draining Kiss",
+      "Psychic",
+      "Water Pulse"
     ],
     "BaseAttack": 211,
     "BaseDefense": 194,
     "BaseStamina": 110,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.2,
+    "FleeRate": 0.06,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "369",
     "Name": "Relicanth",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
-    "TypeII": [
+    "Type II": [
       "Rock"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Water Gun",
+      "Zen Headbutt"
     ],
     "Weight": "23.4 kg",
     "Height": "0.99 m",
@@ -16201,26 +16548,29 @@
       "FamilyID": 369
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Ancient Power",
+      "Aqua Tail",
+      "Hydro Pump"
     ],
     "BaseAttack": 162,
     "BaseDefense": 234,
     "BaseStamina": 200,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.9,
+    "FleeRate": 0.01,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "370",
     "Name": "Luvdisc",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
+      "Water Gun",
       "Splash"
     ],
     "Weight": "8.7 kg",
@@ -16230,27 +16580,30 @@
       "FamilyID": 370
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Draining Kiss",
+      "Water Pulse",
+      "Aqua Jet"
     ],
     "BaseAttack": 81,
     "BaseDefense": 134,
     "BaseStamina": 86,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.3,
+    "FleeRate": 0.1,
+    "BuddyDistanceNeeded": 3
   },
   {
     "Number": "371",
     "Name": "Bagon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bite",
+      "Ember"
     ],
     "Weight": "42.1 kg",
     "Height": "0.61 m",
@@ -16274,27 +16627,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Flamethrower",
+      "Twister",
+      "Crunch"
     ],
     "BaseAttack": 134,
     "BaseDefense": 107,
     "BaseStamina": 90,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.4,
+    "FleeRate": 0.09,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "372",
     "Name": "Shelgon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Ember",
+      "Dragon Breath"
     ],
     "Weight": "110.5 kg",
     "Height": "1.09 m",
@@ -16320,30 +16676,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Flamethrower",
+      "Dragon Pulse",
+      "Twister"
     ],
     "BaseAttack": 172,
     "BaseDefense": 179,
     "BaseStamina": 130,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.06,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "373",
     "Name": "Salamence",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Dragon Tail",
+      "Fire Fang"
     ],
     "Weight": "102.6 kg",
     "Height": "1.5 m",
@@ -16362,30 +16721,32 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Fire Blast",
+      "Hydro Pump",
+      "Draco Meteor"
     ],
     "BaseAttack": 277,
     "BaseDefense": 168,
     "BaseStamina": 190,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "374",
     "Name": "Beldum",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Take Down"
     ],
     "Weight": "95.2 kg",
     "Height": "0.61 m",
@@ -16414,25 +16775,26 @@
     "BaseAttack": 96,
     "BaseDefense": 141,
     "BaseStamina": 80,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.4,
+    "FleeRate": 0.09,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "375",
     "Name": "Metang",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Zen Headbutt",
+      "Metal Claw"
     ],
     "Weight": "202.5 kg",
     "Height": "1.19 m",
@@ -16458,30 +16820,33 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Gyro Ball",
+      "Psyshock"
     ],
     "BaseAttack": 138,
     "BaseDefense": 185,
     "BaseStamina": 120,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.1,
+    "FleeRate": 0.06,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "376",
     "Name": "Metagross",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Bullet Punch",
+      "Zen Headbutt"
     ],
     "Weight": "550 kg",
     "Height": "1.6 m",
@@ -16500,27 +16865,30 @@
       }
     ],
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Flash Cannon",
+      "Earthquake"
     ],
     "BaseAttack": 257,
     "BaseDefense": 247,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
+    "CaptureRate": 0.05,
+    "FleeRate": 0.05,
     "BuddyDistanceNeeded": 5
   },
   {
     "Number": "377",
     "Name": "Regirock",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Rock"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Rock Throw",
+      "Rock Smash"
     ],
     "Weight": "230 kg",
     "Height": "1.7 m",
@@ -16529,27 +16897,30 @@
       "FamilyID": 377
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Stone Edge",
+      "Zap Cannon",
+      "Focus Blast"
     ],
     "BaseAttack": 179,
     "BaseDefense": 356,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "378",
     "Name": "Regice",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ice"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Frost Breath",
+      "Rock Smash"
     ],
     "Weight": "175 kg",
     "Height": "1.8 m",
@@ -16558,27 +16929,30 @@
       "FamilyID": 378
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Blizzard",
+      "Earthquake",
+      "Focus Blast"
     ],
     "BaseAttack": 179,
     "BaseDefense": 356,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "379",
     "Name": "Registeel",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Metal Claw",
+      "Rock Smash"
     ],
     "Weight": "205 kg",
     "Height": "1.91 m",
@@ -16587,30 +16961,33 @@
       "FamilyID": 379
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Flash Cannon",
+      "Hyper Beam",
+      "Focus Blast"
     ],
     "BaseAttack": 143,
     "BaseDefense": 285,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "380",
     "Name": "Latias",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Dragon Breath",
+      "Zen Headbutt"
     ],
     "Weight": "40 kg",
     "Height": "1.4 m",
@@ -16619,30 +16996,33 @@
       "FamilyID": 380
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Dragon Claw",
+      "Thunder"
     ],
     "BaseAttack": 228,
     "BaseDefense": 268,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "381",
     "Name": "Latios",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Dragon Breath",
+      "Zen Headbutt"
     ],
     "Weight": "60 kg",
     "Height": "2.01 m",
@@ -16651,27 +17031,30 @@
       "FamilyID": 381
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Psychic",
+      "Dragon Claw",
+      "Solar Beam"
     ],
     "BaseAttack": 268,
     "BaseDefense": 228,
     "BaseStamina": 160,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "382",
     "Name": "Kyogre",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Water"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Waterfall",
+      "Dragon Tail"
     ],
     "Weight": "352 kg",
     "Height": "4.5 m",
@@ -16680,27 +17063,30 @@
       "FamilyID": 382
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Hydro Pump",
+      "Blizzard",
+      "Thunder"
     ],
-    "BaseAttack": 297,
-    "BaseDefense": 276,
-    "BaseStamina": 200,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BaseAttack": 270,
+    "BaseDefense": 251,
+    "BaseStamina": 182,
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "383",
     "Name": "Groudon",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Ground"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Mud Shot",
+      "Dragon Tail"
     ],
     "Weight": "950 kg",
     "Height": "3.51 m",
@@ -16709,30 +17095,33 @@
       "FamilyID": 383
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Earthquake",
+      "Fire Blast",
+      "Solar Beam"
     ],
-    "BaseAttack": 297,
-    "BaseDefense": 276,
-    "BaseStamina": 200,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BaseAttack": 270,
+    "BaseDefense": 251,
+    "BaseStamina": 182,
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "384",
     "Name": "Rayquaza",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Dragon"
     ],
-    "TypeII": [
+    "Type II": [
       "Flying"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Air Slash",
+      "Dragon Tail"
     ],
     "Weight": "206.5 kg",
     "Height": "7.01 m",
@@ -16741,30 +17130,33 @@
       "FamilyID": 384
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Outrage",
+      "Aerial Ace",
+      "Ancient Power"
     ],
-    "BaseAttack": 312,
-    "BaseDefense": 187,
-    "BaseStamina": 210,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "BaseAttack": 284,
+    "BaseDefense": 170,
+    "BaseStamina": 191,
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "385",
     "Name": "Jirachi",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Steel"
     ],
-    "TypeII": [
+    "Type II": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Confusion",
+      "Charge Beam"
     ],
     "Weight": "1.1 kg",
     "Height": "0.3 m",
@@ -16773,27 +17165,30 @@
       "FamilyID": 385
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Dazzling Gleam",
+      "Psychic",
+      "Doom Desire"
     ],
     "BaseAttack": 210,
     "BaseDefense": 210,
     "BaseStamina": 200,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   },
   {
     "Number": "386",
     "Name": "Deoxys",
     "Classification": "DataNotInGameMaster",
-    "TypeI": [
+    "Type I": [
       "Psychic"
     ],
     "Weaknesses": [
       "DataNotInGameMaster"
     ],
     "Fast Attack(s)": [
-      "Splash"
+      "Zen Headbutt",
+      "Counter"
     ],
     "Weight": "60.8 kg",
     "Height": "1.7 m",
@@ -16802,13 +17197,15 @@
       "FamilyID": 386
     },
     "Special Attack(s)": [
-      "Struggle"
+      "Psycho Boost",
+      "Zap Cannon",
+      "Swift"
     ],
     "BaseAttack": 1,
     "BaseDefense": 1,
     "BaseStamina": 1,
-    "CaptureRate": 0.0,
-    "FleeRate": 0.04,
-    "BuddyDistanceNeeded": 5
+    "CaptureRate": 0.02,
+    "FleeRate": 0.01,
+    "BuddyDistanceNeeded": 20
   }
 ]

@@ -849,7 +849,7 @@ function MapViewManager() {
                 return (nth % 4 === 0) ? '</div></div><div class="row"><div' : match;
             });
 
-            $('#subtitle').html(bagItemCount + " item" + (bagItemCount !== 1 ? "s" : "") + " in Bag");
+            $('#subtitle').html(bagItemCount + " item" + (bagItemCount !== 1 ? "s" : "") + " in bag");
             $('#subcontent').html(out);
         };
 
@@ -904,11 +904,12 @@ function MapViewManager() {
                 var ptd = pokemonArray[pkmID - 1];
 
                 var pkmDateCaptured = new Date(pokemonData.creation_time_ms);
-                var pkmTypeI = ptd.TypeI[0],
-                    pkmTypeII = '';
+                var pkmTypeI = ptd['Type I'][0];
 
-                if (typeof ptd.TypeII !== 'undefined') {
-                    pkmTypeII = ptd.TypeII[0];
+                if (typeof ptd['Type II'] !== 'undefined') {
+                    pkmTypeII = ptd['Type II'][0];
+                } else {
+                    pkmTypeII = '';
                 }
 
                 var pkmWeakness = ptd.Weaknesses,
@@ -935,14 +936,14 @@ function MapViewManager() {
                     "health": pkmHP,
                     "max_health": pkmMHP,
                     "creation_time": pkmTime,
-                    'candy': getCandy(pkmID, user_id),
+                    "candy": getCandy(pkmID, user_id),
                     "move1": move1ID,
                     "move2": move2ID,
                     "type1": pkmTypeI,
                     "type2": pkmTypeII,
                     "weakness": pkmWeakness,
                     "favorite": pkmFavorite,
-                    "date_captured": pkmDateCaptured.customFormat("#MM#/#DD#/#YYYY# #hh#:#mm#"),
+                    "date_captured": pkmDateCaptured.customFormat("#YYYY#/#MM#/#DD# #hhhh#:#mm#:#ss#"),
                     "is_bad": pkmIsBad,
                     "is_shiny": pkmShiny,
                 });
@@ -1106,9 +1107,12 @@ function MapViewManager() {
                 } else {
                     eggString += '<b>Not in use</b><br>';
                 }
-                var img = 'EggIncubatorUnlimited';
+                var img = '901_full';
                 if (incubator.item_id == 902) {
-                    img = 'EggIncubator';
+                    img = '902_full';
+                    eggString += '<b>Uses Remaining:</b> ' + incubator.uses_remaining;
+                } else if (incubator.item_id == 903) {
+                    img = '903_full';
                     eggString += '<b>Uses Remaining:</b> ' + incubator.uses_remaining;
                 }
                 out += '<div class="col s12 m4 l3 center" style="float: left;"><img src="image/items/' + img + '.png" class="png_img"><br>';
@@ -1177,6 +1181,7 @@ function MapViewManager() {
                     pkmnName = pSorted.Name,
                     pkmnEnc = pSorted.enc,
                     pkmnCap = pSorted.cap,
+                    pkmnBuddyDist = pSorted.BuddyDistanceNeeded,
                     candyNum = getCandy(parseInt(pkmnNum), user_id) || 0;
 
                 if ((filter === 'seen' && pkmnEnc === 0) || (filter === 'unseen' && pkmnEnc > 0) || (filter === 'caught' && pkmnCap === 0) || (filter === 'uncaught' && pkmnCap > 0)) {
@@ -1192,12 +1197,14 @@ function MapViewManager() {
                     pkmnNum +
                     ' ' +
                     pkmnName +
-                    '</b><br>Times Seen: ' +
+                    '</b><br>Times seen: ' +
                     pkmnEnc +
-                    '<br>Times Caught: ' +
+                    '<br>Times caught: ' +
                     pkmnCap +
                     '<br>Candy: ' +
                     candyNum +
+                    '<br>Buddy distance: ' +
+                    pkmnBuddyDist +
                     '</div>';
             }
             out += '</div></div>';
